@@ -4,6 +4,7 @@ import 'package:task/tabs.dart';
 class SeconScreen extends StatelessWidget {
   final String title;
   final Color color;
+
   SeconScreen({required this.title, required this.color});
 
   final _tabs = const [

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 class Tabs extends StatelessWidget {
   final Color color;
+
   const Tabs({super.key, required this.color});
 
   @override

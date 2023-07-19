@@ -5,6 +5,7 @@ class CategryModel {
   IconData icon;
   Color color;
   Widget page;
+
   CategryModel(
       {required this.label,
       required this.icon,
